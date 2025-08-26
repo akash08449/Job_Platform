@@ -1,6 +1,6 @@
-# 💼 Job Portal
+# 💼 Job Platform
 
-A full-featured **Job Portal Application** built with **Spring Boot (Microservices Architecture)**.  
+A full-featured **Job Platform Application** built with **Spring Boot (Microservices Architecture)**.  
 It provides a platform for **students/job seekers**, **recruiters**, and **admins** with modules for authentication, job posting, applications, payments, and analytics.
 
 ---
