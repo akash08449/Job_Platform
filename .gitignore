@@ -10,3 +10,15 @@ target/
 *.project
 *.classpath
 .settings/
+target/
+.mvn/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+*.project
+*.classpath
+.settings/
